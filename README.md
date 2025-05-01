@@ -1,0 +1,1 @@
+This project builds an end-to-end machine learning pipeline for insurance risk classification and automated underwriting using Streamlit, Scikit-learn, and Power BI. It allows insurance providers to assess applicant risk levels and automate underwriting decisions using historical customer and policy data
